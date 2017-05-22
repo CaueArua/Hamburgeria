@@ -1,11 +1,12 @@
 # Hamburgeria
 
-Documentação para Rodar
-  Fazer checkout do projeto,
-  Adicioná-lo ao eclipse,
-  Adicioná-lo ao Tomcat. 
-  Executar o Tomcat 
-  O aplicativo estará rodando sob a url “/Hamburgeria” 
+Documentação para Rodar: 
+ 
+ *Fazer checkout do projeto,
+ *Adicioná-lo ao eclipse,
+ *Adicioná-lo ao Tomcat. 
+ *Executar o Tomcat 
+ *O aplicativo estará rodando sob a url “/Hamburgeria” 
 	
 Justificativas para escolha do Spring MVC
   Escolhi como framework de desenvolvimento o Spring Mvc por se tratar de um framework completo que consegue gerenciar tanto a parte de web application quanto a parte de banco de dados, tornando assim mais fácil a evolução do código.
